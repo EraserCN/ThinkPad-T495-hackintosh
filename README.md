@@ -11,7 +11,7 @@
 
 ## Prerequisites
 - **My Hardware**:
-   - Laptop Model: ThinkPad T595
+   - Laptop Model: ThinkPad T495
    - CPU: AMD Ryzen 5 3500U 4c8t
    - Graphics: Integrated AMD Radeon Vega 8
    - Wifi Card: AX200(TBA)
