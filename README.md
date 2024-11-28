@@ -30,6 +30,5 @@
 
 ## Further Improvements
 - ~~1. Audio support from AppleALC~~
-2. Two-way AirDrop functionality
-3. Better battery life
-4. Readme in Chinese
+- ~~2. Power Management~~
+- 3. Readme in Chinese
