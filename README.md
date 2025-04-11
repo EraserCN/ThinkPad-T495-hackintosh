@@ -41,6 +41,12 @@
 2. Place the `EFI` folder into your bootable USB drive for macOS installation.
 3. Boot from the USB drive and install macOS as per standard procedures.
 
+## Important! Important! Important!
+
+**YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.(I don't have network card so no need for me.))**
+![SN/UUID/MLB](https://github.com/revunix/GIGABYTE-X399-Designare-EX/blob/main/images/MLBUUIDSN.png?raw=true)
+
+
 ## BIOS Settings
 - Disable: TPM, Secure Boot, Memory Protection
 - Enable: UEFI Only, AMD Virtualization, Hyper Thread
