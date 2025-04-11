@@ -1,4 +1,4 @@
-# ThinkPad-E595-Hackintosh
+# ThinkPad-T495-Hackintosh
  Hackintosh for ThinkPad T495.
  
 ![macOS running](img/os.png)
